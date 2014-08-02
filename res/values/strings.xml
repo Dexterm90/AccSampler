@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AccSamplerActivity!</string>
+    <string name="app_name">AccSampler</string>
+    <string name="Walking">Camminando</string>
+    <string name="Running">Correndo</string>
+    <string name="StaticOnTable">Statico sul tavolo</string>
+    <string name="StaticInPocket">Statico in tasca</string>
+    <string name="ScegliLabel">Scegli il label da associare ai dati:</string>
+    <string name="ScegliRitardo">Secondi all\'inizio del campionamento: </string>
+    <string name="ScegliDurata">Secondi di campionamento: </string>
+    <string name="StatoIniziale">STATO:Pronto a campionare.</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="DefaultDelay">5</string>
+    <string name="DefaultLength">10</string>
+
+</resources>
